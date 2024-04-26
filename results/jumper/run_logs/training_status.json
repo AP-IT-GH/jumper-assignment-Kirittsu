@@ -1,0 +1,56 @@
+{
+    "jumper": {
+        "checkpoints": [
+            {
+                "steps": 499996,
+                "file_path": "results\\jumper\\jumper\\jumper-499996.onnx",
+                "reward": -0.553333600362142,
+                "creation_time": 1714148532.8386483,
+                "auxillary_file_paths": [
+                    "results\\jumper\\jumper\\jumper-499996.pt"
+                ]
+            },
+            {
+                "steps": 999995,
+                "file_path": "results\\jumper\\jumper\\jumper-999995.onnx",
+                "reward": -0.6714288166591099,
+                "creation_time": 1714149522.4664094,
+                "auxillary_file_paths": [
+                    "results\\jumper\\jumper\\jumper-999995.pt"
+                ]
+            },
+            {
+                "steps": 1499952,
+                "file_path": "results\\jumper\\jumper\\jumper-1499952.onnx",
+                "reward": -0.7133335140016344,
+                "creation_time": 1714150505.632336,
+                "auxillary_file_paths": [
+                    "results\\jumper\\jumper\\jumper-1499952.pt"
+                ]
+            },
+            {
+                "steps": 1802115,
+                "file_path": "results\\jumper\\jumper\\jumper-1802115.onnx",
+                "reward": -0.5880001306533813,
+                "creation_time": 1714151113.0907333,
+                "auxillary_file_paths": [
+                    "results\\jumper\\jumper\\jumper-1802115.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1802115,
+            "file_path": "results\\jumper\\jumper.onnx",
+            "reward": -0.5880001306533813,
+            "creation_time": 1714151113.0907333,
+            "auxillary_file_paths": [
+                "results\\jumper\\jumper\\jumper-1802115.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
